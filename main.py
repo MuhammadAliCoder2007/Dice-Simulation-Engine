@@ -12,4 +12,4 @@ for i in range(rolls):
     else:
         empty_dict[random_integer] =1
 
-
+print(total)
